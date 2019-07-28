@@ -1,0 +1,24 @@
+
+
+
+=============================
+=  README for ex6 =
+=============================
+
+
+==================
+The goal was to creat a programm that manipulates sound wav files (speeds up and slows down,lowers and raises it's volume,dims and reverses the sound in the file using list manipulations, for the first part.
+The second feature of the programm recieves 2 file paths from the user and allows them to combine 2 wav files and save them as one also using 
+list manipulation methods and conditioning.
+The third feature of the programm recieves a path for a text file that contains a melody created by notes from the user , the programm then takes the input and turns the text into sound data and saves them later into a sound file.
+A part of the programm is that after using each feature the user can choose to save the file whilst picking a name or go back to using the first feature and further manipulate the sound data until the user decides to save.
+
+==================
+
+
+======================
+=  Special Comments  = The programm has a lot of helper functions that help with readability so it might be tougher to dive into the code but we believe that our comments covered everything about it other than trivial code lines.
+Also i feel it is necessary to point out that i have designed the programm in such a way that whenever the user's input is invalid the programm will tell them so and then ask for input again ,until it is valid.
+
+======================
+
